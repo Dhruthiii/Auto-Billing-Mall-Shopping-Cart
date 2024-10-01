@@ -22,6 +22,8 @@ Capacitors
 Transistors
 Cables and Connectors
 Diodes
+
+Software Specification are Rasberry Pi , Python programming language
 PCB and Breadboards
 LED
 Transformer/Adapter
